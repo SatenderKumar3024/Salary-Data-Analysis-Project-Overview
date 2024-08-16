@@ -1,4 +1,4 @@
-                                                                                                             **Salary Data Analysis Project Overview**
+**Salary Data Analysis Project Overview**
 
 In this project, I conducted a comprehensive analysis of salary data across various industries and locations. Using Python, I applied advanced data manipulation techniques with Pandas and NumPy, along with statistical visualizations through Matplotlib and Seaborn. The project involved creating a detailed dataset encompassing multiple factors such as age, occupation, salary, experience, and educational background for professionals in different cities worldwide.
 
